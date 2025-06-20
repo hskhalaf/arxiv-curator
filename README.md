@@ -1,4 +1,4 @@
-# ArXiv Curator - Local Usage
+# Your Personal ArXiv Curator
 
 Curates recent ArXiv papers based on your preferences! This repo has been instantiated to search for papers about AI alignment, but you can edit the prompt template in simple_curator.js.
 
