@@ -1,0 +1,19 @@
+{
+  "model": "llama3.2:1b",
+  "keywords": [
+    "reward",
+    "rlhf", 
+    "alignment",
+    "preference",
+    "human feedback",
+    "constitutional",
+    "safety",
+    "robustness",
+    "evaluation",
+    "benchmark",
+    "inference",
+    "post-training",
+    "fine-tuning"
+  ]
+}
+

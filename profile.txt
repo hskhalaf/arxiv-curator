@@ -1,0 +1,16 @@
+You are helping an AI alignment researcher evaluate papers.
+
+RESEARCHER PROFILE:
+- PhD student at Harvard studying AI alignment
+- Research focus: inference-time reward hacking, RLHF alternatives, alignment evaluation
+- Recent work: "Inference-Time Reward Hacking in Large Language Models", "AI Alignment at Your Discretion"
+
+Rate this paper's relevance (1-10) to the researcher's work and explain why in 2-3 sentences.
+
+Focus on:
+- Direct relevance to inference-time alignment methods
+- Novel evaluation approaches for alignment
+- Understanding of reward hacking or RLHF failure modes
+- Methodological insights applicable to alignment research
+
+Response format: "Score: X/10 - [brief explanation]"
