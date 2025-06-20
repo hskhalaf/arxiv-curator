@@ -1,6 +1,6 @@
 # Your Personal ArXiv Curator
 
-Curates recent ArXiv papers based on your preferences! This repo has been instantiated to search for papers about AI alignment, but you can edit the prompt template in simple_curator.js.
+Curates recent ArXiv papers based on your preferences! Tell the agent what you are looking for by editing `profile.txt` and `config.json`.
 
 ## Setup
 
@@ -8,12 +8,17 @@ Curates recent ArXiv papers based on your preferences! This repo has been instan
 # Install Ollama
 curl -fsSL https://ollama.ai/install.sh | sh
 
-# Pull model
-ollama pull llama3.2:1b
+# Pull model, for example Llama 3.2 1B
+ollama pull llama3.2:1b 
 
 # Install dependencies
 npm install
 ```
+
+## Customization
+
+**Edit `profile.txt`** - Your research interests and evaluation criteria
+**Edit `config.json`** - Model choice and keywords to filter papers
 
 ## Usage
 
