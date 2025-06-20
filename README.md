@@ -1,6 +1,6 @@
 # Your Personal ArXiv Curator
 
-Curates recent ArXiv papers based on your preferences! Tell the agent what you are looking for by editing `profile.txt` and `config.json`.
+Too many ArXiv papers but not enough time? Let this agent curate recent papers based on your preferences, all done locally.
 
 ## Setup
 
