@@ -1,0 +1,18 @@
+{
+  "name": "llama-arxiv-curator",
+  "version": "1.0.0",
+  "description": "AI-powered ArXiv paper curator using Llama 3.2 1B and MCP",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js",
+    "curate": "node llama_curator.js",
+    "start": "node llama_curator.js"
+  },
+  "keywords": ["arxiv", "llama", "ai", "research", "curator", "mcp"],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "axios": "^1.6.0",
+    "xml2js": "^0.6.2"
+  }
+}
