@@ -18,6 +18,7 @@ npm install
 ## Customization
 
 **Edit `profile.txt`** - Your research interests and evaluation criteria
+
 **Edit `config.json`** - Model choice and keywords to filter papers
 
 ## Usage
